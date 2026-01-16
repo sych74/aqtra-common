@@ -1,5 +1,3 @@
-Your Aqtra Platform deployment has completed successfully.
-
 **Aqtra Platform URL**:  [https://${env.domain}/](https://${env.domain}/)  
 
 Use the following credentials to access the Aqtra Studio:
